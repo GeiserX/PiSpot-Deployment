@@ -1,0 +1,5 @@
+# pip3 install -r requirements.txt
+
+hvac==0.8.2
+PyInquirer==1.0.3
+pyfiglet==0.7
