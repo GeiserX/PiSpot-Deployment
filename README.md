@@ -1,3 +1,5 @@
+> **⚠️ This project is archived.** Last active development was in 2018. The code is preserved here for reference purposes only and is no longer maintained.
+
 <p align="center"><img src="docs/images/banner.svg" alt="PiSpot Deployment banner" width="900"/></p>
 
 <p align="center"><img src="https://github.com/GeiserX/PiSpot-Deployment/blob/main/extra/logo.jpg?raw=true" width="128" height="128" alt="PiSpot Deployment logo"/></p>
